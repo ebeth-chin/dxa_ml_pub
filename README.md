@@ -1,5 +1,3 @@
-Code for the dexa ml paper. Please check back later for the paper citation.
-
-files can be run like this:  
-
-python3 /lib/lasso.py /data/x_input.csv /data/y_input.csv /path/to/output/   
+Code for "Machine learning reveals association of stool pH with bone mineral density in a healthy multi-ethnic U.S. population".   
+  
+Please check back later for the paper citation.   
